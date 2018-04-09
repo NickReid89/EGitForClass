@@ -15,7 +15,7 @@ public class ClassOne {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld!");
 		
-		System.out.println("message");
+		System.out.println("DIFFERENT");
 	}
 
 }
